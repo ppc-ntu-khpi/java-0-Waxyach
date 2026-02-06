@@ -3,7 +3,7 @@
 ## Завдання 1.1
 
 ### Код Shirt.java
-```
+```java
 public class Shirt {
 
     public int shirtID = 0;
@@ -40,7 +40,7 @@ public class Shirt {
 ## Завдання 1.2
 
 ### Код Shirt.java
-```
+```java
 public class Shirt {
 
     public int shirtID = 5;
@@ -69,5 +69,6 @@ public class Shirt {
 ```
 
 ### Результат виконання
+
 
 ![task-result-1.2](task1.2.png)
